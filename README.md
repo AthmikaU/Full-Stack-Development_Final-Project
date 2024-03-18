@@ -7,11 +7,11 @@
 
 # Solution: 
 ## System requirements for the project:
-`Node.js`: Required for running JavaScript on the server side.
-`React`: JavaScript library for building user interfaces.
-`npm (Node Package Manager)`: Used to install and manage project dependencies.
-`IDE(Integrated Development Environment)`: such as Visual Studio Code for writing code.
-`Postman(API)` : For Backend developement
+- `Node.js`: Required for running JavaScript on the server side.
+- `React`: JavaScript library for building user interfaces.
+- `npm (Node Package Manager)`: Used to install and manage project dependencies.
+- `IDE(Integrated Development Environment)`: such as Visual Studio Code for writing code.
+- `Postman(API)` : For Backend developement
 
 ## Frontend
 - Set up a React project using `npx create-react-app <project_name>`
@@ -27,6 +27,8 @@
 - Implement logic to interact with a database if necessary, for storing and retrieving data.
 - Create endpoints for user registration, login, and logout (if a signup form is included.)
 - Implement any additional backend functionality required to support frontend features, such as managing sessions or handling payments.
+  
+<hr />
 
 # Features: 
 - `Search and Filter`: A search functionality is implemented, allowing users to search for products by name, category, or any relevant criteria. This enhances user experience by facilitating quick product discovery.
@@ -36,4 +38,3 @@
 
 <hr/>
 
-# SNEAK-PEEKS
