@@ -1,5 +1,4 @@
 # Full-Stack-Development_Final-Project
-<hr/>
 
 ## Problem Statement: 
 - In today's digital era, online shopping has revolutionized the way people shop for goods. With the convenience of browsing through a plethora of products and making purchases from the comfort of one's own home, it's no wonder that online shopping has become increasingly popular. An efficient and user-friendly an online shopping cart is crucial for delivering a seamless shopping experience.
@@ -38,3 +37,11 @@
 
 <hr/>
 
+# Sneak-Peeks 
+
+![output2](https://github.com/AthmikaU/Full-Stack-Development_Final-Project/assets/138905666/1144f3e5-4ebc-4249-b46d-0e1e13cd3472) <br/> <br/>
+![output3](https://github.com/AthmikaU/Full-Stack-Development_Final-Project/assets/138905666/d6bafebf-2cb5-4171-9dea-997064553116) <br/> <br/>
+![output4](https://github.com/AthmikaU/Full-Stack-Development_Final-Project/assets/138905666/333e7946-eb79-43c2-bf11-f1148f48dc9a) <br/> <br/>
+![output5](https://github.com/AthmikaU/Full-Stack-Development_Final-Project/assets/138905666/a4175e7c-6f00-4ea3-ac25-0a1e7a4bfc7c) <br/> <br/>
+
+<hr/>
